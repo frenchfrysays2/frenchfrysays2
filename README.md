@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frenchfrysays2
+- 👀 I’m interested in techcology and games
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on coding
+- 📫 How to reach me frenchfrysays@gmail.com OR lucas.fry643@cfbmail.com
